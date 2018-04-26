@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5a4815-b94f-43a7-b90c-0eab1b20c81b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CopyFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="507">
+              <caret line="99" column="47" lean-forward="true" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CopyFiles.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CopyFiles.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CopyFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            <state relative-caret-position="518">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,8 +76,8 @@
         <option value="$PROJECT_DIR$/FileTree/File1.txt" />
         <option value="$PROJECT_DIR$/FileTree/File2.txt" />
         <option value="$PROJECT_DIR$/src/com/company/PrintName.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/CopyFiles.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -92,11 +90,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="992" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="928" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,6 +138,21 @@
               <item name="Directories" type="462c0819:PsiDirectoryNode" />
               <item name="FileTree" type="462c0819:PsiDirectoryNode" />
               <item name="Dir4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir4" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir4" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2Copy" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
@@ -227,12 +240,12 @@
       <updated>1524701566249</updated>
       <workItem from="1524701567588" duration="3671000" />
       <workItem from="1524708215900" duration="1148000" />
-      <workItem from="1524777442498" duration="844000" />
+      <workItem from="1524777442498" duration="2317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5663000" />
+    <option name="totallyTimeSpent" value="7136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -252,7 +265,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3288889" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3161968" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6485261" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -382,16 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/PrintName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -404,8 +407,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CopyFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        <state relative-caret-position="518">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="99" column="47" lean-forward="true" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

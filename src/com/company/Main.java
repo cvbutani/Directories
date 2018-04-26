@@ -71,5 +71,34 @@ public class Main {
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
+        //
+
+        Path parentPath = Paths.get("/Examples");
+        Path childRelativePath = Paths.get("dir/file.txt");
+        System.out.println(parentPath.resolve(childRelativePath));
+
+        //
+
+        // Getting information on how to call directories
+
+        File resolvedFile = new File("/Examples","dir/file.txt");
+        System.out.println(resolvedFile);
+
+        // Getting information of Dir2 using file.io
+        File workingDirectory = new File("").getAbsoluteFile();
+        System.out.println("Working Directory: " + workingDirectory.getAbsolutePath());
+
+        System.out.println();
+        File dir2File = new File(workingDirectory,"/FileTree/Dir2");
+        String[] dir2Contents = dir2File.list();
+        for(int i=0; i<dir2Contents.length; i++){
+            System.out.println("i: " + i + ": " + dir2Contents[i]);
+        }
+
+        System.out.println();
+        File[] dir2Files = dir2File.listFiles();
+        for (int i=0; i<dir2Files.length; i++){
+            System.out.println("i: "+ i + ": " + dir2Contents[i]);
+        }
     }
 }
