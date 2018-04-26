@@ -54,5 +54,14 @@ public class Main {
             System.out.println(path);
         }
 
+        //  Getting information about tree of Dir2 folder.
+
+        Path path = FileSystems.getDefault().getPath("FileTree" + File.separator + "Dir2");
+        try {
+            Files.walkFileTree(path, new PrintName());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 }
